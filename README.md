@@ -1,5 +1,7 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_SUPPLY_CHAIN_DATA
 
-I have performed this project with UNP. The supply chain report provides key insights into stock levels, sales performance, revenue generation, and transportation costs. Skincare products generate the highest revenue and have the largest stock levels, while SKU6, SKU65, SKU38, SKU98, and SKU14 are the top-selling items. Customer demographics indicate that male customers (32.3%) make the most purchases, followed by female (26.25%) and non-binary (23.18%) customers. Among suppliers, Supplier 1 and Supplier 2 contribute the highest revenue. Transportation costs are highest for road and air shipments, requiring optimization for cost efficiency. Additionally, Delhi faces higher shipping costs due to the lack of seaports, making rail a recommended alternative. To improve supply chain efficiency, the report suggests investing more in skincare products, optimizing transportation routes, and implementing real-time shipment tracking.
+I have performed this project with UNP. The supply chain report provides an overview of product availability, customer purchasing behavior, supplier contributions, and transportation efficiency. It highlights the importance of optimizing logistics to reduce costs and improve delivery times. The analysis suggests a focus on high-value products and efficient transportation methods to enhance overall profitability. Additionally, it emphasizes the need for strategic decision-making based on past trends and real-time tracking to minimize delays and improve operational effectiveness.
 
 PROJECT DASHBOARD FILE  : https://drive.google.com/file/d/1yxe2kwR0rqI_sfoobwdpB1bVtfNCTJ7F/view?usp=sharing
+
+PROJECT PDF FILE : 
